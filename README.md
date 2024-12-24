@@ -40,7 +40,7 @@ Bu Python skripti AZTU-nun tələbə portalına daxil olaraq, seçilmiş Python 
 4.  Skripti işə salın:
 
     ```bash
-    python aztu_ders_yoxlama.py
+    python lol.py
     ```
 
    Skript sizdən istifadəçi adınızı və şifrənizi daxil etməyi tələb edəcək. Daxil etdikdən sonra, əgər daxıl olma müvəffəqiyyətli olarsa, script seçilmiş Python kursunun mövcud dərs iştirak məlumatlarını tarix və status (“iştirak edib” və ya “iştirak etməyib”) şəklində göstərəcəkdir.
@@ -51,6 +51,3 @@ Bu Python skripti AZTU-nun tələbə portalına daxil olaraq, seçilmiş Python 
 *   Script internet bağlantınızın sürətinə və AZTU tələbə portalının cavab müddətinə görə fərqli işləyə bilər. Gərək duyulduqda, gözləmə müddətlərini (.sleep()) tənzimləyə bilərsiniz.
 *   AZTU tələbə portalının quruluşu dəyişdikdə script işləməməsi ehtimalı var. Bu cür hallarda kodun yenilənməsi lazım ola bilər.
 
-## Müəllif Hüquqları
-
-Bu skript açıq mənbəlidir və MIT Lisensiyası ilə yayımlanır. Sərbəst istifadə edə, dəyişə və ya paylaya bilərsiniz.
